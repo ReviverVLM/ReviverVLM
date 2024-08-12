@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://media.tenor.com/byFz22ctMfoAAAAM/miku-hatsune.gif">
 <!--
 **ReviverVLM/ReviverVLM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
